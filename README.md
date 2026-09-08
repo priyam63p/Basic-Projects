@@ -13,7 +13,7 @@ Welcome to my **Basic-Projects** repository! This is a collection of beginner-fr
 | [CSS Loading Animation 2](./CSS%20Loading%20Animation%202) | A second variation of a modern CSS loading spinner. | HTML, CSS |
 | [CSS Loading Animation 3](./CSS%20Loading%20Animation%203) | A third variation of a modern CSS loading spinner. | HTML, CSS |
 |[To-Do App](./To-DO) | A simple task management application to add, complete, and delete daily tasks. | HTML, CSS, JavaScript |
-||[YouTube Video Downloader](./Video-Downloader) |A simple downloader that fetches videos from supported URLs, lets you choose quality/format, shows progress, and saves files locally.|Python|
+|[YouTube Video Downloader](./Video-Downloader) |A simple downloader that fetches videos from supported URLs, lets you choose quality/format, shows progress, and saves files locally.|Python|
 
 ## 🛠️ Tech Stack
 
